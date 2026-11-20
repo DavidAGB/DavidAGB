@@ -29,7 +29,13 @@ Most of what I build lives in private repositories:
 - Desktop apps built with Electron, Vue and Quasar.
 - Android apps in Kotlin: a Bluetooth headphone equalizer and a Morse code telegraph.
 
-**What I work with:** PHP · Laravel · JavaScript · Vue · Quasar · Electron · Go · Kotlin · Linux ·
-Docker · MySQL · Redis
+**What I work with**
+
+- **Backend:** PHP · Laravel · Go · Python · Rust
+- **Frontend:** JavaScript · Vue · Quasar · Tailwind CSS · Vite · Electron
+- **Mobile:** Kotlin (Android)
+- **Data:** MySQL · Redis · SQLite
+- **Infrastructure:** Linux · Docker · Nginx · Apache · cPanel · AWS · DigitalOcean
+- **CI/CD and monitoring:** GitHub Actions · Jenkins · Prometheus · Grafana
 
 More about me at [davidac.uk](https://davidac.uk)
