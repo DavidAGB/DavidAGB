@@ -12,6 +12,8 @@ systems: multi-tenant platforms, automated deployments and the infrastructure be
 
 **Projects**
 
+- [WebSockets-Server](https://github.com/DavidAGB/WebSockets-Server): self-hosted WebSocket
+  server in Go that speaks the Pusher protocol, with a live status panel.
 - [Android_inventory](https://github.com/DavidAGB/Android_inventory): personal inventory app
   for Android, written in Kotlin with no external libraries.
 - [ecualizador-android](https://github.com/DavidAGB/ecualizador-android): equalizer for
@@ -28,8 +30,6 @@ systems: multi-tenant platforms, automated deployments and the infrastructure be
 Most of what I build lives in private repositories:
 
 - A self-hosted CI/CD tool in Go: pipelines run in containers and deploy over SSH.
-- A Pusher-compatible WebSocket server in Go, running in production behind a Laravel
-  application.
 - Desktop apps built with Electron, Vue and Quasar.
 
 **What I work with**
