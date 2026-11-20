@@ -14,6 +14,10 @@ systems: multi-tenant platforms, automated deployments and the infrastructure be
 
 - [Android_inventory](https://github.com/DavidAGB/Android_inventory): personal inventory app
   for Android, written in Kotlin with no external libraries.
+- [ecualizador-android](https://github.com/DavidAGB/ecualizador-android): equalizer for
+  Bluetooth headphones on Android, with presets, headset battery and playback controls.
+- [telegrafo-android](https://github.com/DavidAGB/telegrafo-android): pocket telegraph for
+  Android that translates text to Morse code and sends it as sound, light or vibration.
 - [Screenshot-Taker](https://github.com/DavidAGB/Screenshot-Taker): GNOME extension that keeps
   your screenshots hanging at the top edge of the screen.
 - [ostickes-extension](https://github.com/DavidAGB/ostickes-extension): browser extension that
@@ -27,7 +31,6 @@ Most of what I build lives in private repositories:
 - A Pusher-compatible WebSocket server in Go, running in production behind a Laravel
   application.
 - Desktop apps built with Electron, Vue and Quasar.
-- Android apps in Kotlin: a Bluetooth headphone equalizer and a Morse code telegraph.
 
 **What I work with**
 
