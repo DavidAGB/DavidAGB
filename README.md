@@ -5,7 +5,7 @@ systems: multi-tenant platforms, automated deployments and the infrastructure be
 
 **Now**
 
-- Maintaining GBMedia's platform (Laravel, Vue, MySQL, Redis), with hundreds of isolated
+- Maintaining a multi-tenant platform (Laravel, Vue, MySQL, Redis) with hundreds of isolated
   databases.
 - Building a continuous deployment tool in Go.
 - Writing Android apps in Kotlin.
